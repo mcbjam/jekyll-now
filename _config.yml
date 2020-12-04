@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Amour Humour et Délire
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-0/cp0/c0.0.720.720a/s118x90/100105749_2818435808254263_114277908536623104_n.jpg?_nc_cat=102&ccb=2&_nc_sid=70495d&_nc_ohc=KUCqFSXyMXUAX_8fGN7&_nc_ht=scontent-cdg2-1.xx&tp=28&oh=c6379f2c2eee21ac05dbcdaaaee7acd5&oe=5FEEBE70
 
 #
 # Flags below are optional
@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: groups/544583152882028
   flickr:
-  github: barryclark/jekyll-now
+  github: 
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -34,10 +34,10 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: mcbjam
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-8720831-19
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -47,7 +47,7 @@ url: "https://mcbjam.github.io"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/AHD3"
+baseurl: "/ADH3"
 
 #
 # !! You don't need to change any of the configuration flags below !!
